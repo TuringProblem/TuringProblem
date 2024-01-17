@@ -3,6 +3,7 @@
   <h1>👋 Hi, I'm Andrew</h1>
   <h3>A Computer Science Major from Boston</h3>
 </div>
+<img align="right" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 
 <!-- Profile view counter -->
 <p align="left"> 
