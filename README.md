@@ -7,25 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/tazizthegreat" target="blank"><img src="https://img.shields.io/twitter/follow/tazizthegreat?logo=twitter&style=for-the-badge" alt="tazizthegreat" /></a> </p>
 
-- 🔭 I’m currently working on [Zenyte](https://zenyte.com/)
-
-- 🌱 I’m currently learning **Flutter, C, Java, TypeScript**
+- 👨‍💻 I’m currently working on [Zenyte](https://zenyte.com/)
 
 - 👯I Also currently contribute to [Shion](https://shion.gg/)
 
 - 🤝 Check out my music! [Andre Young](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 📝 I regularly write articles on [N/A](N/A)
-
-- 💬 Ask me about **Java, Data structures, Computer Science**
-
 - 📫 How to reach me **overridezenyte@gmail.com**
 
-- 📄 Know about my experiences [N/A](N/A)
+- 📝 I’m currently learning **Flutter, C, Java, TypeScript**
 
-- ⚡ Fun fact **I make music in my spare time!**
+- 💬 Ask me about **Java, Data structures, Computer Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
