@@ -1,7 +1,7 @@
 <!-- Masthead with a cool background and personal greeting -->
 <div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
-  <h1>👋 Hi, I'm Andrew</h1>
-  <h3>Software Engineer from 𝕭𝖔𝖘𝖙𝖔𝖓</h3>
+  <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
+  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝕭𝖔𝖘𝖙𝖔𝖓</h3>
 </div>
 
 <!-- Profile view counter -->
@@ -24,12 +24,12 @@
 </p>
 
 <!-- Personal Information and Links -->
-- 👨‍💻 I’m currently working on [𝓩𝓮𝓷𝔂𝓽𝓮](https://zenyte.com/)
-- 👯 I also contribute to [𝕾𝖍𝖎𝖔𝖓](https://shion.gg/)
-- 🤝 Check out my music! [𝓐𝓷𝓭𝓻𝓮 𝓨𝓸𝓾𝓷𝓰](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
-- 📫 How to reach me: **overridezenyte@gmail.com**
-- 📝 I’m currently learning **𝕱𝖑𝖚𝖙𝖙𝖊𝖗,𝕮, 𝕵𝖆𝖛𝖆, 𝕿𝖞𝖕𝖊𝕾𝖈𝖗𝖎𝖕𝖙**
-- 💬 Ask me about **Java, Data structures, Computer Science**
+- 👨‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝓩𝓮𝓷𝔂𝓽𝓮](https://zenyte.com/)
+- 👯 𝙸 𝚊𝚕𝚜𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 [𝕾𝖍𝖎𝖔𝖓](https://shion.gg/)
+- 🤝 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚖𝚞𝚜𝚒𝚌！ [𝓐𝓷𝓭𝓻𝓮 𝓨𝓸𝓾𝓷𝓰](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **overridezenyte@gmail.com**
+- 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝕱𝖑𝖚𝖙𝖙𝖊𝖗,𝕮, 𝕵𝖆𝖛𝖆, 𝕿𝖞𝖕𝖊𝕾𝖈𝖗𝖎𝖕𝖙**
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Java, Data structures, Computer Science**
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 <!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
 <p align="left">
   <!-- Add icons for languages and tools -->
 </p>
