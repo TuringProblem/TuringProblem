@@ -24,11 +24,11 @@
 </p>
 
 <!-- Personal Information and Links -->
-- 👨‍💻 I’m currently working on [Zenyte](https://zenyte.com/)
-- 👯 I also contribute to [Shion](https://shion.gg/)
-- 🤝 Check out my music! [Andre Young](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
+- 👨‍💻 I’m currently working on [𝓩𝓮𝓷𝔂𝓽𝓮](https://zenyte.com/)
+- 👯 I also contribute to [𝕾𝖍𝖎𝖔𝖓](https://shion.gg/)
+- 🤝 Check out my music! [𝓐𝓷𝓭𝓻𝓮 𝓨𝓸𝓾𝓷𝓰](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
 - 📫 How to reach me: **overridezenyte@gmail.com**
-- 📝 I’m currently learning **Flutter, C, Java, TypeScript**
+- 📝 I’m currently learning **𝕱𝖑𝖚𝖙𝖙𝖊𝖗,𝕮, 𝕵𝖆𝖛𝖆, 𝕿𝖞𝖕𝖊𝕾𝖈𝖗𝖎𝖕𝖙**
 - 💬 Ask me about **Java, Data structures, Computer Science**
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
