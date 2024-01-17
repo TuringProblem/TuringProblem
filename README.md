@@ -30,7 +30,6 @@
 - 📫 How to reach me: **overridezenyte@gmail.com**
 - 📝 I’m currently learning **Flutter, C, Java, TypeScript**
 - 💬 Ask me about **Java, Data structures, Computer Science**
-<img align="right" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
