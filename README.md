@@ -24,8 +24,8 @@
 </p>
 
 <!-- Personal Information and Links -->
-- 👨‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝓩𝓮𝓷𝔂𝓽𝓮](https://zenyte.com/)
-- 👯 𝙸 𝚊𝚕𝚜𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 [𝕾𝖍𝖎𝖔𝖓](https://shion.gg/)
+- 👨‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [Projects](https://Github.com/TuringProblem)
+- 👯 𝙸 𝚊𝚕𝚜𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 [𝓩𝓮𝓷𝔂𝓽𝓮](https://zenyte.com/)
 - 🤝 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚖𝚞𝚜𝚒𝚌！ [𝓐𝓷𝓭𝓻𝓮 𝓨𝓸𝓾𝓷𝓰](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **overridezenyte@gmail.com**
 - 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝕱𝖑𝖚𝖙𝖙𝖊𝖗,𝕮, 𝕵𝖆𝖛𝖆, 𝕿𝖞𝖕𝖊𝕾𝖈𝖗𝖎𝖕𝖙**
