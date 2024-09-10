@@ -1,7 +1,7 @@
 <!-- Masthead with a cool background and personal greeting -->
 <div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
   <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
-  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝕭𝖔𝖘𝖙𝖔𝖓</h3>
+  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**</h3>
 </div>
 
 <!-- Profile view counter -->
