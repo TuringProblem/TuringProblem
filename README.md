@@ -1,4 +1,9 @@
-<!-- Masthead with a cool background and personal greeting -->
+
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
+
+
+<!-- Masthead with a
+ cool background and personal greeting -->
 <div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
   <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
   <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**</h3>
@@ -39,6 +44,10 @@
   <a href="https://instagram.com/tazizthegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tazizthegreat" height="30" width="40" /></a>
   <a href="https://discord.gg/540373904401629185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="540373904401629185" height="30" width="40" /></a>
 </p>
+
+
+![Uploading <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32" id="java-icon">
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
