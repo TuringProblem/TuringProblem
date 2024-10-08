@@ -36,7 +36,7 @@
 - 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **C/C++, Java**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Java, Data structures, Computer Science**
 <!-- Social Media Links -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
   <!-- Add other social media icons as needed -->
   <a href="https://dev.to/turingproblem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="turingproblem" height="30" width="40" /></a>
