@@ -43,8 +43,15 @@
   <a href="https://discord.gg/540373904401629185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="540373904401629185" height="30" width="40" /></a>
 </p>
 
+![image](https://github.com/user-attachments/assets/133ca61a-6165-4d22-8c31-a398f2376cbe)
 ![image](https://github.com/user-attachments/assets/b10b60c7-5f10-47f9-b567-55d7e3f65746)
+--------------------------------------
 ![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
+![image](https://github.com/user-attachments/assets/b688dd3d-4cde-4877-8f18-090e4b2c60dc)
+
+
+------------------------------------------------
+
 
 
 <!-- Languages and Tools Section -->
