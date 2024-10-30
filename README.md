@@ -1,6 +1,4 @@
 
-![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
-
 
 <!-- Masthead with a
  cool background and personal greeting -->
@@ -45,8 +43,8 @@
   <a href="https://discord.gg/540373904401629185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="540373904401629185" height="30" width="40" /></a>
 </p>
 
-
-![Uploading <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32" id="java-icon">
+![image](https://github.com/user-attachments/assets/b10b60c7-5f10-47f9-b567-55d7e3f65746)
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
 
 
 <!-- Languages and Tools Section -->
