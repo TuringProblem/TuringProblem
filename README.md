@@ -1,13 +1,11 @@
-
+![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171)
 <!-- Masthead with a
  cool background and personal greeting -->
-<div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
+<div align="left" style="background-color: #1A1A1A; color: white; padding: 20px;">
   <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
  
-  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**</h3>
+  <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 Boston</h3>
 </div>
-![image](https://github.com/user-attachments/assets/78e585da-75a5-42c2-a6a7-8e9130d17d7e)
-
 <div>
     I'm Famous!
 </div>
