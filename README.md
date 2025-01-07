@@ -1,10 +1,15 @@
 
-
 <!-- Masthead with a
  cool background and personal greeting -->
 <div align="center" style="background-color: #1A1A1A; color: white; padding: 20px;">
   <h1>👋 𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚍𝚛𝚎𝚠</h1>
+ 
   <h3>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 **Boston**</h3>
+</div>
+![image](https://github.com/user-attachments/assets/78e585da-75a5-42c2-a6a7-8e9130d17d7e)
+
+<div>
+    I'm Famous!
 </div>
 
 <!-- Profile view counter -->
@@ -63,4 +68,4 @@
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turingproblem&show_icons=true&locale=en&layout=compact" alt="turingproblem" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turingproblem&show_icons=true&locale=en" alt="turingproblem" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="turingproblem" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="turingproblem" /></p> -->
