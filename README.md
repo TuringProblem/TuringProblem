@@ -48,7 +48,7 @@
 
 <!-- Personal Information and Links -->
 - 🤝 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚖𝚞𝚜𝚒𝚌！ [Andre Young](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
-- 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Ocaml, Java, Potentially Kotlin**
+- 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Ocaml, Typescript, Go, Potentially Rust🦀**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Java, Data structures, Computer Science**
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **overridezenyte@gmail.com**
 <!-- Social Media Links -->
