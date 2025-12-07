@@ -14,13 +14,16 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=turingproblem&label=Profile%20views&color=0e75b6&style=flat" alt="turingproblem" /> 
 </p>
-
 <!-- GitHub Profile Trophy -->
-<p align="left"> 
+<p align="center> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=turingproblem" alt="turingproblem" />
+    <img src="https://github-profile-trophy.vercel.app/?username=turingproblem" alt="turingproblem" width="600"/>
   </a> 
 </p>
+
+<!-- Languages and Tools Section -->
+<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
+<p align="left">
 
 <!-- Twitter Follow Badge -->
 <p align="left"> 
@@ -30,26 +33,59 @@
 </p>
 
 
-<!-- Languages and Tools Section -->
-<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg" width="80"><br>
+      <a href="https://github.com/ocaml/ocaml">Ocaml</a>
+    </td>
+    <td align="center">
+      <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="100"><br>
+      <a href="https://docs.oracle.com/javase/8/docs/api/overview-summary.html">Java</a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="60"><br>
+      <a href="https://github.com/microsoft/TypeScript">TypeScript</a>
+    </td>
+   <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" width="60"><br>
+     <a href="https://github.com/lua/lua">Lua</a>
+   </td>
+   <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60"><br>
+     <a href="https://devdocs.io/c/">C</a>
+   </td>
+  </tr>
+</table>
+
+<h3 align="left">Tools:</h3>
 <p align="left">
+
+
+<table align="center">
+  <tr>
+   <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" width="60"><br>
+    <a href="https://github.com/neovim/neovim">NeoVim</a>
+   </td>
+   <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Typst.svg/2560px-Typst.svg.png" width="100"><br>
+    <a href="https://github.com/typst/typst">Typst</a>
+   </td>
+  </tr>
+</table>
+
   <!-- Add icons for languages and tools -->
 </p>
  
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turingproblem&show_icons=true&locale=en&layout=compact" alt="turingproblem" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turingproblem&" alt="turingproblem" /></p> -->
-![image](https://github.com/user-attachments/assets/133ca61a-6165-4d22-8c31-a398f2376cbe)
-![image](https://github.com/user-attachments/assets/b10b60c7-5f10-47f9-b567-55d7e3f65746)
-![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667](https://github.com/user-attachments/assets/54420eb5-df92-4549-836a-d7e1528f5164)
-![image](https://github.com/user-attachments/assets/b688dd3d-4cde-4877-8f18-090e4b2c60dc)
-======================================================
+----
 
 <!-- Personal Information and Links -->
 - 🤝 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚖𝚞𝚜𝚒𝚌！ [Andre Young](https://open.spotify.com/artist/3tDv971K0ps2UBd2kaFPiJ)
-- 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Ocaml, Typescript, Go, Potentially Rust🦀**
-- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Java, Data structures, Computer Science**
+- 📝 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Ocaml, Typescript, Lambda Calculus, Potentially Rust🦀**
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **Java, Data structures, Computer Science, Complexity theory**
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **overridezenyte@gmail.com**
 <!-- Social Media Links -->
 <h3 align="left">Connect with me!</h3>
