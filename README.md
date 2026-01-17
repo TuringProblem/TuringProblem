@@ -14,12 +14,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=turingproblem&label=Profile%20views&color=0e75b6&style=flat" alt="turingproblem" /> 
 </p>
-<!-- GitHub Profile Trophy -->
-<p align="center> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=turingproblem" alt="turingproblem" width="600"/>
-  </a> 
-</p>
 
 <!-- Languages and Tools Section -->
 <h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h3>
@@ -65,11 +59,11 @@
 <table align="center">
   <tr>
    <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" width="60"><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="60"><br>
     <a href="https://github.com/neovim/neovim">NeoVim</a>
    </td>
    <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Typst.svg/2560px-Typst.svg.png" width="100"><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Typst.svg/3840px-Typst.svg.png" width="100"><br>
     <a href="https://github.com/typst/typst">Typst</a>
    </td>
   </tr>
