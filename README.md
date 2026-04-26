@@ -19,6 +19,10 @@
       <img src="https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg" width="80"><br>
       <a href="https://github.com/ocaml/ocaml">Ocaml</a>
     </td>
+      <td align="center">
+      <img src="https://images.icon-icons.com/2699/PNG/512/elm_lang_logo_icon_170183.png" width="80"><br>
+      <a href="https://github.com/elm/compiler">Elm</a>
+    </td>
     <td align="center">
       <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="100"><br>
       <a href="https://docs.oracle.com/javase/8/docs/api/overview-summary.html">Java</a>
@@ -32,7 +36,7 @@
       <a href="https://github.com/tc39">JavaScript</a>
    </td>
    <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" width="60"><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/500px-Lua-Logo.svg.png" width="60"><br>
      <a href="https://github.com/lua/lua">Lua</a>
    </td>
    <td align="center">
